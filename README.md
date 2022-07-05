@@ -1,5 +1,5 @@
 
-#Notice: orignal one on [Codeberg](https://codeberg.org/orenom/wikiless)
+# Please Notice: orignal one on [Codeberg](https://codeberg.org/orenom/wikiless). I am NOT the author of Wikiless project.
 
 
 # Wikiless
