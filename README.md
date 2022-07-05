@@ -1,3 +1,7 @@
+
+Notice: orignal one on [Codeberg](https://codeberg.org/orenom/wikiless)
+
+
 # Wikiless
 
 [wikiless.org](https://wikiless.org)
